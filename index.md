@@ -4,7 +4,7 @@
 More information will be added here in the near future, but for now, please check out events coordinated by the Users Group <a href="https://nih-irp-singlecell.github.io/SC-UsersGroup/">here</a>
 
 ### Upcoming Events
-<br/>
+
 #### Single Cell Genomics SIG Symposium at the NIH Research Festival
 "Diversity of Biological Insights from Single Cell Analysis Across Multiple Diseases"<br/>
 Concurrent Symposium II<br/>
