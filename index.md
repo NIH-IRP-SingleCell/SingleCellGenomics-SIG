@@ -5,7 +5,12 @@ More information will be added here in the near future, but for now, please chec
 
 ### Upcoming Events
 
-Single Cell Genomics SIG Symposium at the NIH Research Festival
+#### Single Cell Genomics SIG Symposium at the NIH Research Festival
+"Diversity of Biological Insights from Single Cell Analysis Across Multiple Diseases"
+Concurrent Symposium II
+Thursday, September 14th 1:30-3:30
+Bld 10 (Room TBD)
+Contact: Mark Cookson
 
 
 
