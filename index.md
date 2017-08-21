@@ -13,7 +13,7 @@ Location: Bld 10 (Room TBD)<br/>
 Contact: Mark Cookson
 
 
-#### Monday Sept 18th - SIG Intramural: Ariel Levine, MD/PhD 
+#### Monday Sept 18th - Ariel Levine, MD/PhD (NINDS)
 “Massively Parallel Single Nucleus RNAseq Defines Neuronal Sub-Types and Their Dynamic Gene Expression After Behavior”
 Monday, September 18th 3:00-4:00pm
 Location: Bld 35A Rm 640
