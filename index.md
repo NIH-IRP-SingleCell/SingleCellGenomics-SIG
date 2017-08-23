@@ -13,10 +13,10 @@ Location: Bld 10 (Room TBD)<br/>
 Contact: Mark Cookson (NIA)
 
 #### Monday Sept 11th - NIH Neuroscience Seminar Series - Long Cai, Ph.D.
-"Spatial Genomics: Single Cell in Situ and Lineage Analysis"
-Monday, September 11, 2017
+"Spatial Genomics: Single Cell in Situ and Lineage Analysis"<br/>
+Monday, September 11, 2017<br/>
 Noon-1:00 pm <br/>
-Location: Bld 35A, Rm 620
+Location: Bld 35A, Rm 620<br/>
 Contact: Nick Ryba (NIDCR)<br/>
 
 #### Monday Sept 18th - SIG Seminar - Ariel Levine, MD/PhD (NINDS)
