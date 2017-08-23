@@ -16,6 +16,7 @@ Contact: Mark Cookson (NIA)
 "Spatial Genomics: Single Cell in Situ and Lineage Analysis"<br/>
 Monday, September 11, 2017 Noon-1:00 pm <br/>
 Location: Bld 35A, Rm 620<br/>
+http://calendar.nih.gov/app/MCalInfoView.aspx?EvtID=34560
 Contact: Nick Ryba (NIDCR)<br/>
 
 #### Monday Sept 18th - SIG Seminar - Ariel Levine, MD/PhD (NINDS)
