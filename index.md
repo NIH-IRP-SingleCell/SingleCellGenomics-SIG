@@ -17,8 +17,6 @@ Contact: Mark Cookson (NIA)
 Monday, September 11, 2017 Noon-1:00 pm <br/>
 Location: Bld 35A, Rm 620<br/>
 Contact: Nick Ryba (NIDCR)<br/>
-<a href="http://calendar.nih.gov/app/MCalInfoView.aspx?EvtID=34560">Link to NIH Yellow Sheet Posting</a>
-
 
 #### Monday Sept 18th - SIG Seminar - Ariel Levine, MD/PhD (NINDS)
 “Massively Parallel Single Nucleus RNAseq Defines Neuronal Sub-Types and Their Dynamic Gene Expression After Behavior”<br/>
