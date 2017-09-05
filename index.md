@@ -7,10 +7,10 @@ More information will be added here in the near future, but for now, please chec
 
 #### Thursday Sept 14th - Single Cell Genomics SIG Symposium at the NIH Research Festival - Multiple Speakers
 "Diversity of Biological Insights from Single Cell Analysis Across Multiple Diseases"<br/>
-Concurrent Symposium II<br/>
-Thursday, September 14th 1:30-3:30<br/>
-Location: Bld 10 (Room TBD)<br/>
-Contact: Mark Cookson (NIA)
+Concurrent Symposium II <br/>
+Thursday, September 14th 1:30-3:30 <br/>
+Location: Bld 10 (Room TBD) <br/>
+Contact: Mark Cookson (NIA) <br/>
 
 #### Monday Sept 11th - NIH Neuroscience Seminar Series - Long Cai, Ph.D.
 "Spatial Genomics: Single Cell in Situ and Lineage Analysis" <br/>
