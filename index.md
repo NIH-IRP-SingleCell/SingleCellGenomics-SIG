@@ -6,7 +6,7 @@ More information will be added here in the near future, but for now, please chec
 ## Upcoming Events (2017)
 
 #### Thursday Sept 14th - Single Cell Genomics SIG Symposium at the NIH Research Festival - Multiple Speakers
-"Diversity of Biological Insights from Single Cell Analysis Across Multiple Diseases"<br/>
+"Diversity of Biological Insights from Single Cell Analysis Across Multiple Diseases" <br/>
 Concurrent Symposium II <br/>
 Thursday, September 14th 1:30-3:30 <br/>
 Location: Bld 10 (Room TBD) <br/>
@@ -24,6 +24,7 @@ Contact: Nick Ryba (NIDCR) <br/>
 Monday, September 18th 3:00-4:00pm <br/>
 Location: Bld 35A, Rm 640 <br/>
 Contact: Mike Kelly (NIDCD) <br/>
+<a href="http://calendar.nih.gov/app/MCalInfoView.aspx?EvtID=34891"> NIH Events Listing </a>
 
 
 
