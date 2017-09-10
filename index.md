@@ -5,7 +5,7 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2017)
 
-#### Monday Sept 11th - NIH Neuroscience Seminar Series - Long Cai, Ph.D.
+#### CANCELED - Monday Sept 11th - NIH Neuroscience Seminar Series - Long Cai, Ph.D.
 "Spatial Genomics: Single Cell in Situ and Lineage Analysis" <br/>
 Monday, September 11, 2017 Noon-1:00 pm <br/>
 Location: Bld 35A, Rm 620 <br/>
