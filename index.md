@@ -10,7 +10,7 @@ More information will be added here in the near future, but for now, please chec
 Monday, September 18th 3:00-4:00pm <br/>
 Location: Bld 35A, Rm 640 <br/>
 Contact: Mike Kelly (NIDCD) <br/>
-<a href="http://calendar.nih.gov/app/MCalInfoView.aspx?EvtID=34891"> NIH Events Listing </a>
+<a href="http://calendar.nih.gov/app/MCalInfoView.aspx?EvtID=34891"> NIH Events Listing </a> <br/>
 WebEx Link: <a href="https://nih.webex.com/nih/onstage/g.php?MTID=e0ba6a6b95d2698584ae5a7982629fa9e">Event Number 620 535 924 </a>
 
 ### Thursday Oct 19th - SIG Seminar - Chris Vollmers, PhD (Univ of California, Santa Cruz)
