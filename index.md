@@ -6,7 +6,7 @@ More information will be added here in the near future, but for now, please chec
 ## Upcoming Events (2017)
 
 ### Thursday Oct 11th - Co-Hosted Systems Biology and Systems Biology SIG Seminar - Aviv Regev, PhD (Broad Institute)
-Title <br/>
+Title TBD <br/>
 Thursday, Oct 11th 2:00-3:00pm <br/>
 Location: Bld 10 Lipsett Auditorium <br/>
 Contact: Richard Conroy (OD), Mike Kelly (NIDCD), or Eric Batchelor <br/>
