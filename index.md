@@ -16,7 +16,7 @@ Contact: Rob Morell (NIDCD) <br/>
 
 ## Videocast-Archived Past Events
 
-### Thursday Oct 11th - Co-Hosted Systems Biology and Systems Biology SIG Seminar - Aviv Regev, PhD (Broad Institute)
+### 2017 Oct 11th - Co-Hosted Systems Biology and Systems Biology SIG Seminar - Aviv Regev, PhD (Broad Institute)
 "The Human Cell Atlas, and beyond"
 Thursday, Oct 11th 1:45-2:45pm <br/>
 Location: Bld 10 Lipsett Auditorium <br/>
