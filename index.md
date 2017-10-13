@@ -12,10 +12,10 @@ Location: Bld 40 Rm 1201 <br/>
 Contact: Rob Morell (NIDCD) <br/>
 
 ### Monday Nov 6th - Seminar of Interest - Neuroscience Seminar Series - Patrik Ernfors, Ph.D. (Karolinska Institutet)
-"Encoding and Scaling Pain Through Specific Cell Types"
-Monday, November 06, 2017, Noon-1:00 pm
-Location: Building 35A, Porter Neuroscience Research Center, Rm 620
-Contact: Dr. Mark Hoon
+"Encoding and Scaling Pain Through Specific Cell Types" <br/>
+Monday, November 06, 2017, Noon-1:00 pm <br/>
+Location: Building 35A, Porter Neuroscience Research Center, Rm 620 <br/>
+Contact: Dr. Mark Hoon <br/>
 
 
 ## Videocast-Archived Past Events
