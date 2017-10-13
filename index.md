@@ -3,6 +3,8 @@
 
 More information will be added here in the near future, but for now, please check out events coordinated by the Users Group <a href="https://nih-irp-singlecell.github.io/SC-UsersGroup/">here</a>
 
+***
+
 ## Upcoming Events (2017)
 
 ### Thursday Oct 19th - SIG Seminar - Chris Vollmers, PhD (Univ of California, Santa Cruz)
@@ -17,6 +19,7 @@ Monday, November 06, 2017, Noon-1:00 pm <br/>
 Location: Building 35A, Porter Neuroscience Research Center, Rm 620 <br/>
 Contact: Dr. Mark Hoon <br/>
 
+***
 
 ## Videocast-Archived Past Events
 
