@@ -7,14 +7,6 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2017)
 
-### Thursday Oct 19th - SIG Seminar - Chris Vollmers, PhD (Univ of California, Santa Cruz)
-“Exploring Nanopore Sequencing for the Analysis of Single Cell Transcriptomes” <br/>
-Thursday, Oct 19th 2:00-3:00pm <br/>
-Location: Bld 40 Rm 1201 <br/>
-WebEx Link: <a href="https://nih.webex.com/nih/onstage/g.php?MTID=e6b5f90dde1d8e8172f1d5d40b7c46032"> NIH WebEx Event # 629 710 090 </a> <br/>
-WebEx Audio-Only Call-In #: 1-650-479-3208 (Access # 629 710 090) <br/>
-Contact: Rob Morell (NIDCD) <br/>
-
 ### Monday Nov 6th - Seminar of Interest - Neuroscience Seminar Series - Patrik Ernfors, Ph.D. (Karolinska Institutet)
 "Encoding and Scaling Pain Through Specific Cell Types" <br/>
 Monday, November 06, 2017, Noon-1:00 pm <br/>
