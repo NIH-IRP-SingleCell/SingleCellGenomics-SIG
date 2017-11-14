@@ -7,15 +7,17 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2017)
 
+More coming soon!
+
+***
+
+## Videocast-Archived Past Events
+
 ### Monday Nov 6th - Seminar of Interest - Neuroscience Seminar Series - Patrik Ernfors, Ph.D. (Karolinska Institutet)
 "Encoding and Scaling Pain Through Specific Cell Types" <br/>
 Monday, November 06, 2017, Noon-1:00 pm <br/>
 Location: Building 35A, Porter Neuroscience Research Center, Rm 620 <br/>
 Contact: Dr. Mark Hoon <br/>
-
-***
-
-## Videocast-Archived Past Events
 
 ### 2017 Oct 11th - Co-Hosted Single Cell and Systems Biology SIG Seminar - Aviv Regev, PhD (Broad Institute)
 "The Human Cell Atlas, and beyond"
