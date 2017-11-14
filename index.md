@@ -13,7 +13,7 @@ More coming soon!
 
 ## Videocast-Archived Past Events
 
-### Monday Nov 6th - Seminar of Interest - Neuroscience Seminar Series - Patrik Ernfors, Ph.D. (Karolinska Institutet)
+### 2017 Nov 6th - Seminar of Interest - Neuroscience Seminar Series - Patrik Ernfors, Ph.D. (Karolinska Institutet)
 "Encoding and Scaling Pain Through Specific Cell Types" <br/>
 Monday, November 06, 2017, Noon-1:00 pm <br/>
 Location: Building 35A, Porter Neuroscience Research Center, Rm 620 <br/>
