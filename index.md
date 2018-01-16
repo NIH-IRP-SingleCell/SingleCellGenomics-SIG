@@ -7,7 +7,13 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
-More coming soon!
+### 2018 Jan 17th - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
+"Single cell analysis of the effector T cell transcriptome" <br/>
+Wednesday, January 17, 2017, 4:15-5:05 pm <br/>
+Location: Building 10, Lipsett Auditorium <br/>
+Videocast Link: <a href="https://videocast.nih.gov/summary.asp?live=23479&bhcp=1">https://videocast.nih.gov </a> <br/>
+Contact: Dr. Niki Moutsopoulos <br/>
+
 
 ***
 
