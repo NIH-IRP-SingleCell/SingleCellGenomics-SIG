@@ -5,7 +5,7 @@ More information will be added here in the near future, but for now, please chec
 
 ***
 
-## Upcoming Events (2017)
+## Upcoming Events (2018)
 
 More coming soon!
 
