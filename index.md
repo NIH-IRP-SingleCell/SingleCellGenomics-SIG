@@ -6,18 +6,19 @@ More information will be added here in the near future, but for now, please chec
 ***
 
 ## Upcoming Events (2018)
-
-### 2018 Jan 17th - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
-"Single cell analysis of the effector T cell transcriptome" <br/>
-Wednesday, January 17, 2017, 4:15-5:05 pm <br/>
-Location: Building 10, Lipsett Auditorium <br/>
-Videocast Link: <a href="https://videocast.nih.gov/summary.asp?live=23479&bhcp=1">https://videocast.nih.gov </a> <br/>
-Contact: Dr. Niki Moutsopoulos <br/>
+### 2018 Feb 2nd - Seminar of Interest - Stadtman Investigator Program Candidate - Chongyi Chen, Ph.D (Harvard Univ)
+"Single-cell whole genome analyses by Linear Amplification via Transposon Insertion (LIANTI)" <br/>
+Friday, Feb 2nd, 2017, 10:00am <br/>
+Location: Building 37, Rm 6041-6107 <br/>
+WebEx Event: <a href="https://cbiit.webex.com/cbiit/j.php?MTID=m5b2eb5fbc2b280fad6868c6d701984de"> 736 910 837 </a> <br/>
+WebEx Call-In (audio-only): 1-650-479-3207 (access code 736 910 837) <br/>
 
 
 ***
 
 ## Videocast-Archived Past Events
+
+
 
 ### 2017 Nov 6th - Seminar of Interest - Neuroscience Seminar Series - Patrik Ernfors, Ph.D. (Karolinska Institutet)
 "Encoding and Scaling Pain Through Specific Cell Types" <br/>
