@@ -6,6 +6,13 @@ More information will be added here in the near future, but for now, please chec
 ***
 
 ## Upcoming Events (2018)
+
+
+### 2018 Mar 16th - Seminar of Interest - Jimmie Ye, PhD (UCSF)
+"Constructing the Human Immune Census" <br/>
+Friday, March 16, 2018,  1:00pm <br/>
+Location: Bldg 40 1201/1203 <br/>
+
 ### 2018 Feb 2nd - Seminar of Interest - Stadtman Investigator Program Candidate - Chongyi Chen, Ph.D (Harvard Univ)
 "Single-cell whole genome analyses by Linear Amplification via Transposon Insertion (LIANTI)" <br/>
 Friday, Feb 2nd, 2017, 10:00am <br/>
