@@ -7,6 +7,10 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
+### 2018 Mar 16th - Seminar of Interest - Alexandre Day (Boston University)
+"High-dimensional clustering for single-cell analysis, and beyond" <br/>
+Friday, March 16, 2018,  3:30-4:30pm <br/>
+Location: Bldg 37 4014 <br/>
 
 ### 2018 Mar 16th - Seminar of Interest - Jimmie Ye, PhD (UCSF)
 "Constructing the Human Immune Census" <br/>
