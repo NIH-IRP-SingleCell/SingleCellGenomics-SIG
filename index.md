@@ -7,6 +7,16 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
+
+### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
+Y. William Lu Presenting "Mapping the Mouse Cell Atlas by Microwell-seq" by Han et al. <br/>
+Marta Pallotto Presenting "Classifying Drosophila Olfactory Projection Neuron Subtypes by Single-Cell RNA Sequencing" by Li et al. <br/>
+Location: Bld 35A, 1G600 (1st Floor "Skybox) <br/>
+Time: 2:00pm
+WebEx Event: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e3c39551aa26bcb7ed1d05bdf40bb7990"> 737 302 481 </a> <br/>
+Event Password: pM97NtZ@ <br/>
+WebEx Call-In (audio-only): 1-650-479-3207 (access code 737 302 481) <br/>
+
 ### 2018 Mar 16th - Seminar of Interest - Alexandre Day (Boston University)
 "High-dimensional clustering for single-cell analysis, and beyond" <br/>
 Friday, March 16, 2018,  3:30-4:30pm <br/>
@@ -21,8 +31,7 @@ Location: Bldg 40 1201/1203 <br/>
 "Single-cell whole genome analyses by Linear Amplification via Transposon Insertion (LIANTI)" <br/>
 Friday, Feb 2nd, 2017, 10:00am <br/>
 Location: Building 37, Rm 6041-6107 <br/>
-WebEx Event: <a href="https://cbiit.webex.com/cbiit/j.php?MTID=m5b2eb5fbc2b280fad6868c6d701984de"> 736 910 837 </a> <br/>
-WebEx Call-In (audio-only): 1-650-479-3207 (access code 736 910 837) <br/>
+
 
 
 ***
