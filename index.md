@@ -7,9 +7,9 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
-### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
+### 2018 Wednesday Oct 31st - WALS Lecture - Sarah Teichmann (Single Cell Genomics SIG Invitee)
+WALS 2018-2019 Season - More info TBA <br/>
 
-### 2018 Tuesday June 26th - Single Cell Genomics Journal Club
 
 
 ## Past Event (2018)
@@ -25,6 +25,10 @@ Event password: Jb96K8F$ <br/>
 Event address for attendees: https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871 <br/> <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871"> WebEx Link </a>
 Call-in toll number (US/Canada): 1-650-479-3207 <br/>
 Access code: 734 690 170 <br/>
+
+### 2018 Tuesday June 26th - Single Cell Genomics Journal Club
+Mike Kelly Presenting "Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding" by Rosenberg AB et al. <br/>
+Grégoire Altan-Bonnet Presenting "Single-cell Map of Diverse Immune Phenotypes Driven by the Tumor Microenvironment" by Azizi Es et al. <br/>
 
 ### 2018 Mar 16th - Seminar of Interest - Alexandre Day (Boston University)
 "High-dimensional clustering for single-cell analysis, and beyond" <br/>
