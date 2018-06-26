@@ -7,13 +7,6 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
-### 2018 Wednesday Oct 31st - WALS Lecture - Sarah Teichmann (Single Cell Genomics SIG Invitee)
-WALS 2018-2019 Season - More info TBA <br/>
-
-
-
-## Past Event (2018)
-
 ### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
 Wai Lim Ku Presenting "Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation" by Buenrostro JD et al. <br/>
 Eric Levenson Presenting "CA single-cell survey of the small intestinal epithelium." by Haber AL et al. <br/>
@@ -25,6 +18,13 @@ Event password: Jb96K8F$ <br/>
 Event address for attendees: https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871 <br/> <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871"> WebEx Link </a>
 Call-in toll number (US/Canada): 1-650-479-3207 <br/>
 Access code: 734 690 170 <br/>
+
+### 2018 Wednesday Oct 31st - WALS Lecture - Sarah Teichmann (Single Cell Genomics SIG Invitee)
+WALS 2018-2019 Season - More info TBA <br/>
+
+
+
+## Past Event (2018)
 
 ### 2018 Tuesday June 26th - Single Cell Genomics Journal Club
 Mike Kelly Presenting "Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding" by Rosenberg AB et al. <br/>
