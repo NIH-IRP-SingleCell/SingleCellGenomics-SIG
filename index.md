@@ -12,10 +12,8 @@ Wai Lim Ku Presenting "Integrated Single-Cell Analysis Maps the Continuous Regul
 Eric Levenson Presenting "CA single-cell survey of the small intestinal epithelium." by Haber AL et al. <br/>
 Location: Bld 35A, 1G600 (1st Floor "Skybox) <br/>
 Time: 2:00pm <br/>
-WebEx Info: <br/>
-Event number: 734 690 170 <br/>
+WebEx event address for attendees: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871"> WebEx Link 734 690 170 </a> <br/> 
 Event password: Jb96K8F$ <br/>
-Event address for attendees: https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871 <br/> <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871"> WebEx Link </a>
 Call-in toll number (US/Canada): 1-650-479-3207 <br/>
 Access code: 734 690 170 <br/>
 
