@@ -7,15 +7,24 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
+### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
+
+### 2018 Tuesday June 26th - Single Cell Genomics Journal Club
+
+
+## Past Event (2018)
 
 ### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
-Y. William Lu Presenting "Mapping the Mouse Cell Atlas by Microwell-seq" by Han et al. <br/>
-Marta Pallotto Presenting "Classifying Drosophila Olfactory Projection Neuron Subtypes by Single-Cell RNA Sequencing" by Li et al. <br/>
+Wai Lim Ku Presenting "Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation" by Buenrostro JD et al. <br/>
+Eric Levenson Presenting "CA single-cell survey of the small intestinal epithelium." by Haber AL et al. <br/>
 Location: Bld 35A, 1G600 (1st Floor "Skybox) <br/>
-Time: 2:00pm
-WebEx Event: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e3c39551aa26bcb7ed1d05bdf40bb7990"> 737 302 481 </a> <br/>
-Event Password: pM97NtZ@ <br/>
-WebEx Call-In (audio-only): 1-650-479-3207 (access code 737 302 481) <br/>
+Time: 2:00pm <br/>
+WebEx Info: <br/>
+Event number: 734 690 170 <br/>
+Event password: Jb96K8F$ <br/>
+Event address for attendees: https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871 <br/> <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871"> WebEx Link </a>
+Call-in toll number (US/Canada): 1-650-479-3207 <br/>
+Access code: 734 690 170 <br/>
 
 ### 2018 Mar 16th - Seminar of Interest - Alexandre Day (Boston University)
 "High-dimensional clustering for single-cell analysis, and beyond" <br/>
