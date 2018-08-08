@@ -7,7 +7,7 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
-### 2018 Tuesdday Sept 25 - Single Cell Genomics SIG Seminar - Iain Clark (Adam Abate's Lab, UCSF)
+### 2018 Tuesday Sept 25 - Single Cell Genomics SIG Seminar - Iain Clark (Adam Abate's Lab, UCSF)
 "PCR-activated Cell Sorting (PACS)" <br/>
 Bld 40, Rm 1201 @ 11:00am <br/>
 Contact: Eli Boritz <br/>
