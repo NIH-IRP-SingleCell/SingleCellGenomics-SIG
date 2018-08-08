@@ -7,15 +7,10 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
-### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
-Wai Lim Ku Presenting "Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation" by Buenrostro JD et al. <br/>
-Eric Levenson Presenting "CA single-cell survey of the small intestinal epithelium." by Haber AL et al. <br/>
-Location: Bld 35A, 1G600 (1st Floor "Skybox) <br/>
-Time: 2:00pm <br/>
-WebEx event address for attendees: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2c62e5ca3f7c588882416e459bd85871"> WebEx Link 734 690 170 </a> <br/> 
-Event password: Jb96K8F$ <br/>
-Call-in toll number (US/Canada): 1-650-479-3207 <br/>
-Access code: 734 690 170 <br/>
+### 2018 Tuesdday Sept 25 - Single Cell Genomics SIG Seminar - Iain Clark (Adam Abate's Lab, UCSF)
+"PCR-activated Cell Sorting (PACS)"
+Bld 40, Rm 1201 @ 11:00am
+Contact: Eli Boritz
 
 ### 2018 Wednesday Oct 31st - WALS Lecture - Sarah Teichmann (Single Cell Genomics SIG Invitee)
 WALS 2018-2019 Season - More info TBA <br/>
@@ -23,6 +18,10 @@ WALS 2018-2019 Season - More info TBA <br/>
 
 
 ## Past Event (2018)
+
+### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
+Wai Lim Ku Presenting "Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation" by Buenrostro JD et al. <br/>
+Eric Levenson Presenting "CA single-cell survey of the small intestinal epithelium." by Haber AL et al. <br/>
 
 ### 2018 Tuesday June 26th - Single Cell Genomics Journal Club
 Mike Kelly Presenting "Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding" by Rosenberg AB et al. <br/>
