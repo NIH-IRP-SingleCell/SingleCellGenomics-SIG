@@ -13,6 +13,7 @@ Bld 40, Rm 1201 @ 11:00am <br/>
 Contact: Eli Boritz <br/>
 
 ### 2018 Tuesday Sept 25 - Single Cell Genomics Journal Club
+Date & Time: Tuesday, Sept 25th @ 2:00pm <br/>
 Location: Bld 35A 1G600 (Orange Skybox) <br/>
 Link for Event: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=edcebd79cae845c24b86b9fccdd1c9e7f"> 731 434 256 </a> <br/>
 Event password: tKUYtj@3 <br/>
