@@ -7,6 +7,16 @@ More information will be added here in the near future, but for now, please chec
 
 ## Upcoming Events (2018)
 
+### 2018 Nov 19th - Single Cell Genomics SIG Seminar - Joshua Levin, PhD (Broad Institute)
+Bld 10, Lipsett Auditorium
+Contact: Ariel Levine <br/>
+
+
+## Past Event (2018)
+
+### 2018 Wednesday Oct 31st - WALS Lecture - Sarah Teichmann (Single Cell Genomics SIG Invitee)
+WALS 2018-2019 Season - More info TBA <br/>
+
 ### 2018 Tuesday Sept 25 - Single Cell Genomics SIG Seminar - Iain Clark (Adam Abate's Lab, UCSF)
 "PCR-activated Cell Sorting (PACS)" <br/>
 Bld 40, Rm 1201 @ 11:00am <br/>
@@ -20,13 +30,6 @@ Link for Event: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=edcebd
 Event password: tKUYtj@3 <br/>
 Audio-Only Call-In Number: 1-650-479-3207 <br/>
 Access Code: 731 434 256 <br/>
-
-### 2018 Wednesday Oct 31st - WALS Lecture - Sarah Teichmann (Single Cell Genomics SIG Invitee)
-WALS 2018-2019 Season - More info TBA <br/>
-
-
-
-## Past Event (2018)
 
 ### 2018 Tuesday Mar 27th - Single Cell Genomics Journal Club
 Wai Lim Ku Presenting "Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation" by Buenrostro JD et al. <br/>
