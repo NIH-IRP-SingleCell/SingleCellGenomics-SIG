@@ -8,7 +8,7 @@ More information will be added here in the near future, but for now, please chec
 ## Upcoming Events (2018)
 
 ### 2018 Nov 19th - Single Cell Genomics SIG Seminar - Joshua Levin, PhD (Broad Institute)
-Bld 10, Lipsett Auditorium
+Bld 10, Lipsett Auditorium <br/>
 Contact: Ariel Levine <br/>
 
 
