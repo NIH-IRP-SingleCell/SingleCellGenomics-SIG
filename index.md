@@ -5,14 +5,12 @@ More information will be added here in the near future, but for now, please chec
 
 ***
 
-## Upcoming Events (2018)
+
+## Past Event (2018)
 
 ### 2018 Nov 19th - Single Cell Genomics SIG Seminar - Joshua Levin, PhD (Broad Institute)
 Bld 10, Lipsett Auditorium <br/>
 Contact: Ariel Levine <br/>
-
-
-## Past Event (2018)
 
 ### 2018 Wednesday Oct 31st - WALS Lecture - Sarah Teichmann (Single Cell Genomics SIG Invitee)
 WALS 2018-2019 Season - More info TBA <br/>
