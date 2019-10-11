@@ -1,6 +1,20 @@
 ## Welcome to the NIH Intramural Research Program Single Cell Genomics Scientific Interest Group site
 
 
+## Upcoming Events (2019)
+
+### 2019 Tuesday, Oct 22nd @ 2pm - Ivan Costa, PhD Seminar (Institute for Computational Genomics, Aachen, Germany)
+Time: Tuesday October 22, 2pm<br/>
+Location: Building 4 Room 433 on Bethesda campus<br/>
+ <br/>
+“From chromatin accessibility to regulomes down to single cell resolution"<br/>
+ <br/>
+- To request a meeting with the speaker, contact Mia Sung sungm@mail.nih.gov<br/>
+- Postdocs are invited to join a lunch with the speaker in Building 10/CRC atrium at noon. Please RSVP to Mia and bring your own lunch.<br/>
+- WebEx will not be available, so please plan to attend in person.<br/>
+- The seminar series is financially supported by NIAID this year.<br/>
+<br/>
+
 More information will be added here in the near future, but for now, please check out events coordinated by the Users Group <a href="https://nih-irp-singlecell.github.io/SC-UsersGroup/">here</a>
 
 ***
