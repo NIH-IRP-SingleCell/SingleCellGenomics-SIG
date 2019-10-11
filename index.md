@@ -3,7 +3,7 @@
 
 ## Upcoming Events (2019)
 
-### 2019 Tuesday, Oct 22nd @ 2pm - Ivan Costa, PhD Seminar (Institute for Computational Genomics, Aachen, Germany)
+### 2019 Tuesday, Oct 22nd @ 2pm - System Biology SIG - Ivan Costa, PhD Seminar (Institute for Computational Genomics, Aachen, Germany)
 Time: Tuesday October 22, 2pm<br/>
 Location: Building 4 Room 433 on Bethesda campus<br/>
  <br/>
